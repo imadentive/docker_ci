@@ -36,7 +36,7 @@ export default class Index extends Component {
           type='text'
           placeholder=''
         />
-        <AtButton formType='submit'>登录123</AtButton>
+        <AtButton formType='submit'>登录123456</AtButton>
       </AtForm>
     
       }
