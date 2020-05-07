@@ -139,7 +139,7 @@ export default class Home extends Component {
         {
           this.state.hasMore ?<View>
             {this.state.isH5 ?<AtLoadMore onClick={this.loadMore} />:null}
-          </View> : <AtDivider content='没有更多了' color="#e93b3d"></AtDivider>
+          </View> : <AtDivider content='没有更多了ioo' color="#e93b3d"></AtDivider>
         }
         
 
